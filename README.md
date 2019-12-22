@@ -1,7 +1,7 @@
 
 # Generic-WiX-Functions
 
-I had to solve some difficult problems in Wix Installer. Since WiX does not provide all utilities, I created some to do that for me.
+I had to solve some difficult problems in Wix Installer. Since WiX does not provide all utilities, I created some to do that for me. Feel free to use them as you please. This is licenced under MIT licence. Please give me credit if you are using this code.
 
 **QuiteCmd()**
 This function executes a command line in the background without a pop-up dialog. The output is also captured in the logs. This is a deferred Custom Actions so please treat it as such.
