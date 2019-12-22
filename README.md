@@ -1,4 +1,4 @@
-
+![](images/icon.png)
 # Generic-WiX-Functions
 
 I had to solve some difficult problems in Wix Installer. Since WiX does not provide all utilities, I created some to do that for me.
